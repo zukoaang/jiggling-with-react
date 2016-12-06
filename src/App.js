@@ -13,7 +13,7 @@ class App extends Component {
       },
       {
         id:2,
-        name: "playlist two",
+        name: "Because the Internet",
         image: "https://images.genius.com/54176aed36cb6114bc46f0b70b8b02b3.1000x1000x1.jpg"
       },
       {
